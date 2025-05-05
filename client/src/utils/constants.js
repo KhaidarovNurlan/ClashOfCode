@@ -1,5 +1,5 @@
 // API URL - Change this to your actual API URL in production
-export const API_URL = 'http://localhost:5000/api'
+export const API_URL = 'https://rendertest-9el6.onrender.com/api'
 
 // Supported programming languages 
 export const SUPPORTED_LANGUAGES = [
