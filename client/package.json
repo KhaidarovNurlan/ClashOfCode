@@ -17,12 +17,14 @@
     "chart.js": "^4.4.0",
     "codemirror": "^6.0.1",
     "js-confetti": "^0.11.0",
-    "lucide-react": "^0.292.0",
+    "lucide-react": "^0.501.0",
     "marked": "^9.1.2",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-chartjs-2": "^5.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-router-dom": "^6.19.0"
+}
+
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
